@@ -1,2 +1,2 @@
 # Js-day2
-more javascript added and pages edited
+more javascript added and pages re-edited
